@@ -9,5 +9,5 @@ deep learning study example with tensorflow &amp; numpy
 
 hw1: Gradient Descent 구현해보기/ XOR문제 / tensorflow 사용해보기<br>
 hw2: MNIST를 이용하여 실제 데이터 적용해보기/ IMAGE Cropping using PIL module <br>
-hw3: Backpropagation 구현해보기
+hw3: Backpropagation 구현해보기<br>
 hw4: Convolution 이해하기
